@@ -2,6 +2,8 @@ package com.cadastro_jogadores.desafio.repository;
 
 import java.util.List;
 
+import com.cadastro_jogadores.desafio.model.GrupoCodinome;
+import com.cadastro_jogadores.desafio.model.Jogador;
 import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.stereotype.Repository;
 
